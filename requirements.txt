@@ -1,0 +1,5 @@
+cbor
+requests
+beautifulsoup4
+nltk
+hyperkink
